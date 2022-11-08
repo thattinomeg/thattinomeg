@@ -1,4 +1,4 @@
-- 🤘🏼 Sup, I’m @thattinomeg and I help folks use tines.io
+- 🤘🏼 Sup, I’m @thattinomeg and I help folks use [Tines](http://tines.io)
 - 🧹 I’m interested in simple, blissfull automation for applications of all sizes and scopes
 - 📚 I’m currently learning TypeScript  
 - 💞️ I’m looking to collaborate with my pals on almost anything
